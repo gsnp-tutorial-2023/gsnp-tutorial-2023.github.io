@@ -1,18 +1,20 @@
 ---
 layout: default
 ---
-<img src="assets/logo-gsnp.png" width="500"/>
+<img src="assets/logo-gsnp.png" width="350"/>
 
 # Adventures with computational modeling and information theory: from grains to bits
+
+<p float="left">
+  <img src="assets/BreastTumor.png" height="250" />
+  <img src="assets/entropy_production.png" height="250" /> 
+</p>
 
 ## GSNP tutorial (short course) at the [2023 APS March meeting](https://march.aps.org/)
 
 Sunday March 5, 2023  \|  Las Vegas, Nevada
 
-<p float="left">
-  <img src="assets/BreastTumor.png" heigth="250" />
-  <img src="assets/entropy_production.png" heigth="250" /> 
-</p>
+
 
 ## Program
 
