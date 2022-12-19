@@ -23,43 +23,43 @@ The schedule and talk abstracts may be found in this [google doc](https://docs.g
 
 **Emergent collective motion and rigidity in confluent biological tissues**
 
-*Lisa Manning*, Syracuse University
+[*Lisa Manning*](https://mmanning.expressions.syr.edu/), Syracuse University
 
 **Structural, vibrational, and mechanical properties of packings of deformable particles**
 
-*Corey O’Hern*, Yale University
+[*Corey O’Hern*](https://jamming.research.yale.edu/), Yale University
 
 **Applications of the deformable particle model to biological systems**
 
-*Mark Shattuck*, City College of New York (CUNY)
+[*Mark Shattuck*](https://www.ccny.cuny.edu/profiles/mark-shattuck), City College of New York (CUNY)
 
 **How activity and deformability change the glass transition**
 
-*Francesco Arceri*, Yale University
+[*Francesco Arceri*](https://scholar.google.com/citations?user=IgIAAPgAAAAJ&hl=en), Yale University
 
 **Bits, brains, and Boltzmann: Physics of information in living systems**
 
-*Bill Bialek*, Princeton University
+[*William Bialek*](https://phy.princeton.edu/people/william-bialek), Princeton University
 
 **How well do neurons, humans, and artificial neural networks predict?**
 
-*Sarah Marzen*, Claremont McKenna College
+[*Sarah Marzen*](https://www.sarahmarzen.com/), Claremont McKenna College
 
 **More (species) is more different: information-rich matter in the multicomponent limit**
 
-*Arvind Murugan*, University of Chicago
+[*Arvind Murugan*](http://muruganlab.uchicago.edu/), University of Chicago
 
 **Thermodynamic foundations for understanding information processing in living and artificial systems**
 
-*Susanne Still*, University of Hawaii at Manoa
+[*Susanne Still*](http://www2.hawaii.edu/~sstill/), University of Hawaii at Manoa
 
 **The other side of entropy**
 
-*Stefano Martiniani*, New York University
+[*Stefano Martiniani*](https://as.nyu.edu/faculty/stefano-martiniani.html), New York University
 
 **How machine learning is enabling an information-theoretic approach to data analysis and the design of experiments**
 
-*Kyle Cranmer*, University of Wisconsin-Madison
+[*Kyle Cranmer*](http://theoryandpractice.org/), University of Wisconsin-Madison
 
 ---
 
