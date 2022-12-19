@@ -9,7 +9,10 @@ layout: default
 
 Sunday March 5, 2023  \|  Las Vegas, Nevada
 
-<img src="assets/BreastTumor.png" height="200"/><img src="assets/entropy_production.png" height="200"/>
+<p float="left">
+  <img src="assets/BreastTumor.png" heigth="250" />
+  <img src="assets/entropy_production.png" heigth="250" /> 
+</p>
 
 ## Program
 
