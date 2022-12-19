@@ -30,13 +30,16 @@ Sunday March 5, 2023  \|  Las Vegas, Nevada
 
 The full schedule, with talk abstracts, may be found in this [google doc](https://docs.google.com/document/d/1ePyQUt8_FNWNS2ElHKC_nA7pMJKZHKsDaAPInYUMP9Q/edit?usp=sharing).
 
-**Emergent collective motion and rigidity in confluent biological tissues**
-
-*Lisa Manning*, Syracuse University
-
+<table>
+	<tr>
+	**Emergent collective motion and rigidity in confluent biological tissues**
+	*Lisa Manning*, Syracuse University
+	</tr>
+	<tr>
 **Structural, vibrational, and mechanical properties of packings of deformable particles**
-
 *Corey O’Hern*, Yale University
+</tr>
+</table>
 
 **Applications of the deformable particle model to biological systems**
 
