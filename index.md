@@ -1,15 +1,15 @@
 ---
 layout: default
 ---
-<img src="assets/logo-gsnp.png" width="200"/>
+<img src="assets/logo-gsnp.png" width="500"/>
 
-# GSNP tutorial (short course) at the [2023 APS March meeting](https://march.aps.org/)
+# Adventures with computational modeling and information theory: from grains to bits
 
-Adventures with computational modeling and information theory: from grains to bits
+## GSNP tutorial (short course) at the [2023 APS March meeting](https://march.aps.org/)
 
-Sunday March 5, 2023  |  Las Vegas, Nevada
+Sunday March 5, 2023  \|  Las Vegas, Nevada
 
-<img src="assets/BreastTumor.png" width="200"/>
+<img src="assets/BreastTumor.png" height="200"/><img src="assets/entropy_production.png" height="200"/>
 
 ## Program
 
@@ -56,7 +56,7 @@ Sunday March 5, 2023  |  Las Vegas, Nevada
 For more details, including scheduling and abstracts for the talks, please visit this [google doc](https://docs.google.com/document/d/1ePyQUt8_FNWNS2ElHKC_nA7pMJKZHKsDaAPInYUMP9Q/edit?usp=sharing)
 
 
-<img src="assets/entropy_production.png" width="200"/>
+
 
 ## How to register
 
