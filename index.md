@@ -5,6 +5,11 @@ layout: default
 
 # Adventures with computational modeling and information theory: from grains to bits
 
+
+![alt-text-1](assets/BreastTumor.png) ![alt-text-2](assets/entropy_production.png)
+
+---
+
 <p float="left">
   <img src="assets/BreastTumor.png" height="250" />
   <img src="assets/entropy_production.png" height="250" /> 
