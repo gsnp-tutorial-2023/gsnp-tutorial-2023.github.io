@@ -13,6 +13,8 @@ Sunday March 5, 2023  \|  Las Vegas, Nevada
 
 ## Program
 
+The full schedule, with talk abstracts, may be found in this [google doc](https://docs.google.com/document/d/1ePyQUt8_FNWNS2ElHKC_nA7pMJKZHKsDaAPInYUMP9Q/edit?usp=sharing).
+
 **Emergent collective motion and rigidity in confluent biological tissues**
 
 *Lisa Manning*, Syracuse University
@@ -53,18 +55,16 @@ Sunday March 5, 2023  \|  Las Vegas, Nevada
 
 *Kyle Cranmer*, University of Wisconsin-Madison
 
-For more details, including scheduling and abstracts for the talks, please visit this [google doc](https://docs.google.com/document/d/1ePyQUt8_FNWNS2ElHKC_nA7pMJKZHKsDaAPInYUMP9Q/edit?usp=sharing)
 
 
 
+---
 
 ## How to register
 
 When you register for the March meeting, you have the option to add tutorial(s) to your registration.  
 This short course is listed as **"GSNP Short Course on computational modeling and machine learning"**.
-You have the option to register for the computational modelling portion of the program (the morning, listed as Part I), the information theory part of the program (the afternoon, listed as Part II), or both!  
-
-Prices:
+You have the option to register for the computational modelling portion of the program (the morning, listed as Part I), the information theory part of the program (the afternoon, listed as Part II), or both!  The price varies:
 
 Students: $80
 
