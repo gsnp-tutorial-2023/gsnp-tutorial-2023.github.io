@@ -6,7 +6,12 @@ layout: default
 # Adventures with computational modeling and information theory: from grains to bits
 
 
-<img src="assets/BreastTumor.png" height="100" /> <img src="assets/entropy_production.png" height="100" /> 
+<table>
+  <tr>
+    <td valign="top"><img src="assets/BreastTumor.png" height="100"></td>
+    <td valign="top"><img src="assets/entropy_production.png" height="100"></td>
+  </tr>
+ </table>
 
 ---
 
