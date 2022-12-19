@@ -56,7 +56,7 @@ Sunday March 5, 2023  |  Las Vegas, Nevada
 For more details, including scheduling and abstracts for the talks, please visit this [google doc](https://docs.google.com/document/d/1ePyQUt8_FNWNS2ElHKC_nA7pMJKZHKsDaAPInYUMP9Q/edit?usp=sharing)
 
 
-<img src="assets/entropy-production.png" width="200"/>
+<img src="assets/entropy_production.png" width="200"/>
 
 ## How to register
 
