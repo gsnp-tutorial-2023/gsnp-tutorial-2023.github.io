@@ -5,7 +5,6 @@ layout: default
 
 # Adventures with computational modeling and information theory: from grains to bits
 
-
 <table>
   <tr>
     <td valign="top"><img src="assets/BreastTumor.png" height="300"></td>
@@ -15,8 +14,7 @@ layout: default
 
 ## GSNP tutorial (short course) at the [2023 APS March meeting](https://march.aps.org/)
 
-Sunday March 5, 2023  \|  Las Vegas, Nevada
-
+8:30am-5:30pm Sunday March 5, 2023  \|  Las Vegas, Nevada
 
 
 ## Program
