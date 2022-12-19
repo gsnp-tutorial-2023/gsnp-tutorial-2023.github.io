@@ -8,8 +8,8 @@ layout: default
 
 <table>
   <tr>
-    <td valign="top"><img src="assets/BreastTumor.png" height="100"></td>
-    <td valign="top"><img src="assets/entropy_production.png" height="100"></td>
+    <td valign="top"><img src="assets/BreastTumor.png" height="300"></td>
+    <td valign="top"><img src="assets/entropy_production.png" height="300"></td>
   </tr>
  </table>
 
@@ -98,3 +98,5 @@ Dong Wang, [dong.wang@yale.edu](mailto:dong.wang@yale.edu)
 Kieran Murphy, [kieranm@seas.upenn.edu](mailto:kieranm@seas.upenn.edu)  
 
 Daphne Klotsa, [dklotsa@email.unc.edu](mailto:dklotsa@email.unc.edu)
+
+---
