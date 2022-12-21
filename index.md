@@ -14,12 +14,12 @@ layout: default
 
 ## GSNP tutorial (short course) at the [2023 APS March meeting](https://march.aps.org/)
 
-8:30am-5:30pm on Sunday March 5, 2023  \|  Las Vegas, Nevada
+8:00am-5:30pm on Sunday March 5, 2023  \|  Las Vegas, Nevada
 
 
 ## Program
 
-The schedule and talk abstracts may be found in this [google doc](https://docs.google.com/document/d/1ePyQUt8_FNWNS2ElHKC_nA7pMJKZHKsDaAPInYUMP9Q/edit?usp=sharing).
+The schedule and talk abstracts may be found in this [google doc](https://docs.google.com/document/d/1x4ZVKA8OtNG-2oA9J_kvN5u5JK8Zz-Ovikn9zGkRYQY/edit?usp=sharing).
 
 **Emergent collective motion and rigidity in confluent biological tissues**
 
