@@ -62,7 +62,6 @@ The schedule and talk abstracts may be found in this [google doc](https://docs.g
 [*Kyle Cranmer*](http://theoryandpractice.org/), University of Wisconsin-Madison
 
 ---
-
 ## How to register
 
 When you register for the March meeting, you have the option to add tutorial(s) to your registration.  
@@ -78,13 +77,13 @@ Regular APS members: $150
 Non-APS members: $200
 
 ---
-
 ## Sponsors
 
 We acknowledge generous support from:
 
 [<img src="assets/logo_slm.png" width="350"/>](https://web.sas.upenn.edu/slm/)
 
+---
 ## Contact us
 
 Please reach out if you have any questions:
