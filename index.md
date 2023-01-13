@@ -83,8 +83,8 @@ We acknowledge generous support from:
 
 <table>
   <tr>
-    <td valign="top"><a href="https://web.sas.upenn.edu/slm/"><img src="assets/logo_slm.png" height="125"></a></td>
-    <td valign="top"><a href="https://peb.yale.edu/"><img src="assets/logo_PEB.jpeg" height="125"></a></td>
+    <td valign="top"><a href="https://web.sas.upenn.edu/slm/"><img src="assets/logo_slm.png" height=125></a></td>
+    <td valign="top"><a href="https://peb.yale.edu/"><img src="assets/logo_PEB.jpeg" height=75></a></td>
   </tr>
  </table>
 
