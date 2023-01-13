@@ -81,9 +81,12 @@ Non-APS members: $200
 
 We acknowledge generous support from:
 
-[<img src="assets/logo_slm.png" width="350"/>](https://web.sas.upenn.edu/slm/)
-
-[<img src="assets/logo_PEB.jpeg" width="350"/>](https://peb.yale.edu/)
+<table>
+  <tr>
+    <td valign="top"><a href="https://web.sas.upenn.edu/slm/"><img src="assets/logo_slm.png" height="125"></a></td>
+    <td valign="top"><a href="https://peb.yale.edu/"><img src="assets/logo_PEB.jpeg" height="125"></a></td>
+  </tr>
+ </table>
 
 ---
 ## Contact us
