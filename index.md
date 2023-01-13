@@ -83,7 +83,7 @@ We acknowledge generous support from:
 
 [<img src="assets/logo_slm.png" width="350"/>](https://web.sas.upenn.edu/slm/)
 
-[<img src="assets/logo_PEB.jpg" width="350"/>](https://peb.yale.edu/)
+[<img src="assets/logo_PEB.jpeg" width="350"/>](https://peb.yale.edu/)
 
 ---
 ## Contact us
