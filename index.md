@@ -16,6 +16,7 @@ layout: default
 
 8:00am-5:30pm on Sunday March 5, 2023  \|  Las Vegas, Nevada
 
+**Room 222/223, Caesars Forum**
 
 ## Program
 
